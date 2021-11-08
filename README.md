@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jrt5054
-- 👀 I’m interested in web developement 
+- 👋 Hi, I’m Joshua Taylor
+- 👀 I’m interested in learning web development and applying those skills to creating web apps 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, NodeJS, ExpressJS, MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
