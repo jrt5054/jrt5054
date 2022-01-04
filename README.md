@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **josh@thisisjoshtaylor.com**
 
-- ⚡ Fun fact **I used to build Halloween costumes for children in wheelchairs as a part of the Magic Wheelchair project. I used Arduino, LEDs, and RFID extensively**
+- ⚡ Fun fact **I used to build Halloween costumes for children in wheelchairs as a part of the Magic Wheelchair Project. I used Arduino, LEDs, and RFID extensively**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
