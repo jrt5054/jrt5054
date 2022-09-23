@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Josh Taylor</h1>
 <h3 align="center">I'm an ex-Electrical Engineer who made the switch to Web Development</h3>
 
-- 🔭 I’m currently working on [a Voltage Drop Calculator](https://github.com/jrt5054/vd-calc)
+- 🔭 I’m currently working on the [Velty Shopify Store](https://getvelty.com/)
 
 - 🌱 I’m currently learning **Liquid (Shopify), React, Node, Express**
 
 - 👨‍💻 All of my projects are available at [thisisjoshtaylor.com](thisisjoshtaylor.com)
 
-- 💬 Ask me about **Electrical Engineering**
+- 💬 Ask me about **Shopify**
 
 - 📫 How to reach me **josh@thisisjoshtaylor.com**
 
